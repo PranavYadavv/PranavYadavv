@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi, I'm Pranav Yadav 👋
 
-<!--
-**PranavYadavv/PranavYadavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech CSE student** | Deep Learning · DBMS · Full Stack
 
-Here are some ideas to get you started:
+Currently building projects in computer vision and database systems.
+Always open to collaborating on ML research or backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+`Python` `SQL` `TensorFlow` `React` `Node.js` `C++`
+
+## What I'm working on
+- 🔭 Traffic lane evacuation system using computer vision
+- 📚 Deep learning course projects (CNN, RNNs, Transformers)
+- 🗄️ SQL/DBMS implementations from scratch
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--yadav06-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pranav-yadav06)
+
+---
+*Open to internships · SDE · ML Engineering roles (2025–26)*
