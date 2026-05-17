@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Pranav Yadav 👋
 
 **B.Tech CSE student** | Deep Learning · DBMS · Full Stack
