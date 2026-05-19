@@ -14,7 +14,7 @@ Always open to collaborating on ML research or backend engineering.
 - 🗄️ SQL/DBMS implementations from scratch
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--yadav06-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pranav-yadav06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--yadav06-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pranav-yadavv-)
 
 ---
 *Open to internships · SDE · ML Engineering roles (2025–26)*
