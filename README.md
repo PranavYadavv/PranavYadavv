@@ -5,7 +5,7 @@
 **AI/ML Engineer in Training · B.Tech CSE (AI/ML) @ IILM University, Greater Noida**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-yadav06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-080c14?style=flat-square&logo=vercel&logoColor=white)](https://pranavyadav.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-080c14?style=flat-square&logo=vercel&logoColor=white)]([https://pranavyadav.dev](https://pranav-yadav-portfolio.vercel.app/))
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavyadav0307@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=PranavYadavv&style=flat-square&color=4ade80)
 
