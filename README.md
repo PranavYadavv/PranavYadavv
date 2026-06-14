@@ -1,115 +1,170 @@
 <div align="center">
 
-# Hey, I'm Pranav Yadav 👋
+```
+███████╗██╗  ██╗██╗███╗   ██╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗██╗
+██╔════╝██║  ██║██║████╗  ██║██╔═══██╗██║ ██╔╝██╔══██╗████╗ ████║██║
+███████╗███████║██║██╔██╗ ██║██║   ██║█████╔╝ ███████║██╔████╔██║██║
+╚════██║██╔══██║██║██║╚██╗██║██║   ██║██╔═██╗ ██╔══██║██║╚██╔╝██║██║
+███████║██║  ██║██║██║ ╚████║╚██████╔╝██║  ██╗██║  ██║██║ ╚═╝ ██║██║
+╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
+```
 
-**AI/ML Engineer in Training · B.Tech CSE (AI/ML) @ IILM University, Greater Noida**
+### ⚡ *"The code you write today is the jutsu you master tomorrow."* ⚡
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-yadav06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-080c14?style=flat-square&logo=vercel&logoColor=white)](https://pranavyadav.dev)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavyadav0307@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=PranavYadavv&style=flat-square&color=4ade80)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%5Bin+Training%5D+%F0%9F%A7%A0;DRDO+AI+Intern+%F0%9F%9B%A1%EF%B8%8F;B.Tech+CSE+AI%26ML+%40+IILM+University;Building+Intelligent+Systems+%E2%9A%A1;Open+to+SWE+%2F+ML+Internships+2026+%F0%9F%9A%80" alt="Typing SVG" />
 
-</div>
+<br/>
 
----
-
-### About Me
-
-I'm a second-year CS student specialising in AI & Machine Learning, currently building ML models, RAG pipelines, and data-driven applications. I care about problems where code meets intelligence — systems that learn, adapt, and do something real.
-
-- 🔬 **Incoming AI Engineer Intern @ DRDO** — building ML solutions for defence communication systems (Jun–Aug 2026)
-- 📄 **Research paper** on Intelligent Traffic Lane Evacuation Systems — *under peer review*
-- 🎓 **IBM RAG & Agentic AI** | **IBM AI/ML** | **Google Data Analytics** certified
-- 🛠️ 3 end-to-end AI/ML projects shipped independently as a freshman/sophomore
-- 🔍 Seeking **SWE / ML internships for 2026**
-
----
-
-### Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**AI / ML**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Generative AI & Agents**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4ade80?style=flat-square)
-
-**Web & Backend**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data & Databases**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description | Stack | Accuracy / Impact |
-|---|---|---|---|
-| 🎓 [**Student Performance Analyzer**](https://github.com/PranavYadavv) | ML web app analysing 500+ student records, surfacing at-risk patterns | Python · Streamlit · Pandas · Matplotlib | **90%+ classification accuracy** |
-| 🚦 [**Intelligent Traffic Lane Evacuation System**](https://github.com/PranavYadavv) | Priority-based evacuation algorithm with computer vision-based density detection | Python · JS · Algorithm Design | **40% reduction** in lane clearance time |
-| 📈 [**Stock Price Prediction Model**](https://github.com/PranavYadavv) | Regression model forecasting stock prices from historical time-series data | Python · Scikit-learn · Pandas | **82% accuracy** on held-out test set |
-| 🗺️ [**Route Optimisation Tool**](https://github.com/PranavYadavv) | Visual comparison of Dijkstra vs MST shortest-path algorithms | Node.js · CSS · Graph Algorithms | — |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavYadavv&show_icons=true&theme=github_dark&hide_border=true&bg_color=080c14&title_color=e1e0cc&text_color=a0a0a0&icon_color=4ade80)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavYadavv&layout=compact&theme=github_dark&hide_border=true&bg_color=080c14&title_color=e1e0cc&text_color=a0a0a0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PranavYadavv&theme=dark&hide_border=true&background=080c14&ring=4ade80&fire=4ade80&currStreakLabel=e1e0cc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-yadavv-)
+[![Location](https://img.shields.io/badge/📍_Dehradun,_India-Uttarakhand-orange?style=for-the-badge)](#)
+[![Open To Work](https://img.shields.io/badge/🎯_Open_To-SWE_/_ML_Internships_2026-brightgreen?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-### Certifications
+## 🌸 Arc: *The Making of an AI Engineer*
 
-- 🏅 **IBM RAG and Agentic AI Professional Certificate** — IBM / Coursera, May 2026
-- 🏅 **Google Data Analytics Professional Certificate** — Google / Coursera, May 2026
-- 🏅 **IBM AI/ML Specialization** — IBM via IILM University
-- 🏅 **Software Engineering Job Simulation** — JPMorgan Chase & Co. / Forage, 2024
+```yaml
+name:        Pranav Yadav
+pronouns:    he/him
+level:       2nd Year B.Tech | CSE (AI & ML) @ IILM University, Greater Noida
+current_arc: "AI Intern @ DRDO — Mission: Defence-Grade Intelligence"
+location:    Dehradun, Uttarakhand 🏔️
+quest:       SWE / ML Internship — Summer 2026
+alignment:   Chaotic Good Coder 💜
+power_level: Still Ascending ↑
+```
+
+> *"AI didn't become powerful in a day. It took 70 years of experiments, setbacks, and breakthroughs.*
+> *Respect the process. Great technology is built, not born."*
+> — Pranav Yadav
 
 ---
 
-### Experience
+## ⚔️ Skills & Jutsu
 
-**AI Engineer Intern · DRDO** *(Jun – Aug 2026, Upcoming)*
-> Developing Python-based ML pipelines and REST API integrations for defence communication systems. Working with DRDO scientists to design and evaluate AI-driven modules for signal and data communication domains.
+<div align="center">
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 AI/ML Arsenal
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Gen-8B5CF6?style=for-the-badge)
+
+### 🛠️ Tools & Domains
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Daily_Training-FF4757?style=for-the-badge)
+
+</div>
+
+---
+
+## 🗡️ Featured Projects
+
+### 🧬 Student Performance Analyzer
+> *The Sharingan Eye that sees patterns in chaos*
+
+- 📊 Classification model achieving **90%+ accuracy** on 500+ student records
+- 🔬 End-to-end ML pipeline — data ingestion to model evaluation
+- 🛠️ Python · Scikit-learn · Feature Engineering
+
+---
+
+### 🚦 Intelligent Traffic Lane Evacuation System
+> *Speed o' Sound — Lane Clearance Edition*
+
+- 🚨 Priority-based evacuation algorithm cutting lane clearance time by **40%**
+- 📄 Research paper currently **under peer review** for publication
+- 🛠️ Python · Algorithm Design · Systems Thinking
+
+---
+
+### 📈 Stock Price Prediction Model
+> *Reading the market's chakra*
+
+- 📉 Time-series analysis achieving **82% accuracy** on test data
+- 🔧 Feature engineering with Scikit-learn
+- 🛠️ Python · Scikit-learn · Data Analysis
+
+---
+
+## 🏯 Experience
+
+### 🛡️ AI Engineer Intern — DRDO *(Jun 2026 – Present)*
+> *S-rank mission: Building AI for national defence*
+
+- Developing **AI/ML-powered solutions** for defence communication systems
+- Applying Python pipelines and **REST API integrations** for mission-critical data
+- Building ML models for **low-latency, high-security** defence environments
+- Collaborating with DRDO scientists on real-world defence AI applications
+
+---
+
+## 📜 Scrolls & Certifications
+
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|---|---|---|
+| IBM RAG & Agentic AI | IBM | May 2026 |
+| Google Data Analytics | Google | May 2026 |
+| J.P. Morgan Software Engineering Simulation | Forage | Nov 2025 |
+| Infosys Springboard | Infosys | Aug 2025 |
+| Python Programming (PCEP) | Python Institute | — |
+
+---
+
+## 📊 Battle Stats
+
+<div align="center">
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-yadavv&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-yadavv&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav-yadavv&theme=tokyonight&hide_border=true&ring=a855f7&fire=a855f7&currStreakLabel=a855f7)
+
+</div>
+
+---
+
+## 🎌 Current Training Arc
+
+```
+[ YEAR 2 of 4 ] ━━━━━━━━━━░░░░░░░░░░░░░░ 50% complete
+
+✅ Machine Learning Foundations
+✅ DSA Daily Practice
+✅ DRDO AI Internship
+✅ IBM RAG & Agentic AI
+🔄 Open Source Contributions  ← currently grinding
+⬜ SWE / ML Internship 2026   ← next milestone
+⬜ Product-based company       ← final boss
+```
 
 ---
 
 <div align="center">
 
-*Open to SWE / ML internships, collaborations, and research projects.*
-**Let's build something intelligent.**
+### 💌 Let's Connect & Collaborate
 
-[![Let's connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-yadav06)
+*"The strongest shinobi aren't those who go it alone — they build things that outlast them."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-yadavv-)
+[![Email](https://img.shields.io/badge/Email-Open_to_Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pranav-yadavv.pranav-yadavv)
+
+*⭐ Star a repo if you find it useful — it fuels the training arc!*
 
 </div>
