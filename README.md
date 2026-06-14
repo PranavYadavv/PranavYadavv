@@ -111,19 +111,6 @@ My focus is on problems where **code meets intelligence** — designing systems 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavYadavv&show_icons=true&theme=default&hide_border=true&title_color=0077B5&icon_color=0077B5" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavYadavv&layout=compact&theme=default&hide_border=true&title_color=0077B5" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavYadavv&theme=minimal&hide_border=true&color=0077B5&line=0077B5&point=0077B5" width="100%" />
-</p>
-
----
-
 ## Education
 
 **B.Tech — CSE (AI & ML)** · IILM University, Greater Noida · *2024 – 2028*
