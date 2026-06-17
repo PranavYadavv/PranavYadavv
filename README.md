@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pranav Yadav 👋</h1>
+<h1 align="center">Hi, I'm Pranav Yadav 👋</h1>  
 
 <p align="center">
   <b>AI/ML Engineer (in training) &nbsp;·&nbsp; B.Tech CSE AI&ML @ IILM University &nbsp;·&nbsp; AI Intern @ DRDO</b>
