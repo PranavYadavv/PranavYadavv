@@ -82,7 +82,7 @@ My focus is on problems where **code meets intelligence** — designing systems 
 
 - Achieved **82% accuracy** on held-out test data
 - Feature engineering with Scikit-learn on historical market data
-- **Stack:** Python · Scikit-learn · Time-Series Analysis
+- **Stack:** Python · Scikit-learn · Time-Series Analysis  
 
 ---
 
