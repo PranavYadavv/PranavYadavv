@@ -3,7 +3,7 @@
 <p align="center">
   <b>AI/ML Engineer (in training) &nbsp;·&nbsp; B.Tech CSE AI&ML @ IILM University &nbsp;·&nbsp; AI Intern @ DRDO</b>
 </p>
-
+   
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Python+%7C+Java+%7C+Machine+Learning+%7C+DSA;Open+to+SWE+%2F+ML+Internships+2026" alt="Typing SVG" />
 </p>
