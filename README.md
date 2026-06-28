@@ -1,126 +1,25 @@
-<h1 align="center">Hi, I'm Pranav Yadav 👋</h1>  
+# 💫 About Me:
+Second-year B.Tech student specialising in Computer Science with AI & Machine Learning at IILM University, Greater Noida (2024–2028). Currently interning at DRDO as an AI Engineer, building ML-powered solutions for defence communication systems.<br><br>My focus is on problems where code meets intelligence — designing systems that learn, adapt, and scale. I actively work on ML projects, strengthen my DSA skills daily, and bridge academic theory with real-world engineering.<br><br> Currently building AI/ML solutions for defence-grade communication at DRDO<br> Deepening expertise in RAG, Agentic AI, and end-to-end ML pipelines<br> Seeking SWE / ML Internships for Summer 2026<br> Born in Dehradun, Uttarakhand, India<br> 
 
-<p align="center">
-  <b>AI/ML Engineer (in training) &nbsp;·&nbsp; B.Tech CSE AI&ML @ IILM University &nbsp;·&nbsp; AI Intern @ DRDO</b>
-</p> 
-   
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Python+%7C+Java+%7C+Machine+Learning+%7C+DSA;Open+to+SWE+%2F+ML+Internships+2026" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-yadavv-">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Yadav-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%202026-brightgreen?style=flat-square" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ig.pranav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranav Yadav) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Pranav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavyadav0307@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=flat&logo=apache&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat&logo=zigbee&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PranavYadavv&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PranavYadavv&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PranavYadavv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## About Me
-
-Second-year B.Tech student specialising in Computer Science with AI & Machine Learning at IILM University, Greater Noida (2024–2028). Currently interning at **DRDO** as an AI Engineer, building ML-powered solutions for defence communication systems.
-
-My focus is on problems where **code meets intelligence** — designing systems that learn, adapt, and scale. I actively work on ML projects, strengthen my DSA skills daily, and bridge academic theory with real-world engineering.
-
-- 🔭 Currently building AI/ML solutions for defence-grade communication at DRDO
-- 🌱 Deepening expertise in RAG, Agentic AI, and end-to-end ML pipelines
-- 🎯 Seeking **SWE / ML Internships for Summer 2026**
-- 📍 Based in Dehradun, Uttarakhand, India
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PranavYadavv&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=PranavYadavv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tech Stack
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PranavYadav955) 
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8B5CF6?style=flat-square)
-
-**Tools & Domains**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square)
-![DSA](https://img.shields.io/badge/DSA-Daily%20Practice-1D4ED8?style=flat-square)
-
----
-
-## Featured Projects
-
-### 🎓 Student Performance Analyzer
-> End-to-end ML pipeline for analysing and predicting student outcomes
-
-- Achieved **90%+ classification accuracy** on 500+ student records
-- Full pipeline: data ingestion → feature engineering → model evaluation
-- **Stack:** Python · Scikit-learn · Pandas
-
----
-
-### 🚦 Intelligent Traffic Lane Evacuation System
-> Priority-based algorithm for smart emergency lane clearance
-
-- Reduced simulated lane clearance time by **40%** with a priority-based evacuation model
-- Research paper currently **under peer review** for publication
-- **Stack:** Python · Algorithm Design · Systems Modelling
-
----
-
-### 📈 Stock Price Prediction Model
-> Time-series forecasting using classical ML techniques
-
-- Achieved **82% accuracy** on held-out test data
-- Feature engineering with Scikit-learn on historical market data
-- **Stack:** Python · Scikit-learn · Time-Series Analysis  
-
----
-
-## Experience
-
-**Artificial Intelligence Engineer Intern — DRDO** *(Jun 2026 – Present)*
-- Developing AI/ML-powered solutions for defence communication systems using Python-based pipelines and REST API integrations
-- Building and integrating ML models targeting defence-grade reliability under low-latency, high-security constraints
-- Collaborating with DRDO scientists to design, prototype, and evaluate AI-driven modules for real-world defence applications
-
-**Software Research & Development — Self-initiated Projects** *(Jan 2024 – Present)*
-- Built and deployed 3 end-to-end AI/ML and full-stack projects independently
-- Authored a research paper on Intelligent Traffic Lane Evacuation System (under peer review)
-
----
-
-## Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| IBM RAG & Agentic AI | IBM | May 2026 |
-| Google Data Analytics | Google | May 2026 |
-| J.P. Morgan Software Engineering Simulation | Forage | Nov 2025 |
-| Infosys Springboard | Infosys | Aug 2025 |
-| Python Programming (PCEP) | Python Institute | — |
-
----
-
-## Education
-
-**B.Tech — CSE (AI & ML)** · IILM University, Greater Noida · *2024 – 2028*
-
----
-
-<p align="center">
-  <i>Open to collaborating on AI/ML projects and research. Feel free to reach out on <a href="https://www.linkedin.com/in/pranav-yadavv-">LinkedIn</a>.</i>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PranavYadavv.PranavYadavv" />
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
